@@ -1,3 +1,5 @@
+##Team mate 1 - https://github.com/RasikaMala
+
 # 🧩 Agile Case Study: CRM System Implementation using Scrum and Jira
 
 ## 📘 Overview
@@ -82,9 +84,9 @@ These reports helped analyze team performance and project efficiency.
 ## 👥 Team Members
 | Name | Role |
 |------|------|
-| [Your Name] | Scrum Master / Developer |
-| [Teammate 1] | Product Owner |
-| [Teammate 2] | Developer |
+| [Vyshnavi G] | Scrum Master / Developer |
+| [Rasika Mala K] | Product Owner |
+| [Usha S P] | Developer |
 
 ---
 
